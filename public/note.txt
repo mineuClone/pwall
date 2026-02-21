@@ -1,0 +1,8 @@
+ui [ ]
+
+
+
+
+wallpaper list -> localhost/
+wallpaper upload -> localhost/upload/
+
